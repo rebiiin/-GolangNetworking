@@ -6,11 +6,11 @@ Welcome to the Go Networking code example! This repository is designed to be you
 
 - UDP Socket Programming
 
-- HTTP Server:
+- HTTP Server
 
-- WebSocket Chat: 
+- WebSocket Chat
 
-- DNS Query Tool:
+- DNS Query Tool
 
 Feel free to send your PR
 
